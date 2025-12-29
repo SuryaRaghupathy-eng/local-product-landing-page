@@ -1,6 +1,10 @@
 import { useState } from "react";
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { useLocation, Link } from "wouter";
+=======
+import { useLocation } from "wouter";
+>>>>>>> 01f7bd050b9156b1ce8aba50540c7ca7bc4526f6
 =======
 import { useLocation } from "wouter";
 >>>>>>> 01f7bd050b9156b1ce8aba50540c7ca7bc4526f6
@@ -9,7 +13,11 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { MapPin, ArrowRight, Edit2, ChevronLeft } from "lucide-react";
+=======
+import { MapPin, ArrowRight, Edit2 } from "lucide-react";
+>>>>>>> 01f7bd050b9156b1ce8aba50540c7ca7bc4526f6
 =======
 import { MapPin, ArrowRight, Edit2 } from "lucide-react";
 >>>>>>> 01f7bd050b9156b1ce8aba50540c7ca7bc4526f6
@@ -37,6 +45,7 @@ export default function Step1Business() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-slate-900 dark:to-slate-800 flex items-center justify-center p-4">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <div className="w-full max-w-md relative">
         <Link href="/">
           <Button 
@@ -49,6 +58,9 @@ export default function Step1Business() {
             Back to Home
           </Button>
         </Link>
+=======
+      <div className="w-full max-w-md">
+>>>>>>> 01f7bd050b9156b1ce8aba50540c7ca7bc4526f6
 =======
       <div className="w-full max-w-md">
 >>>>>>> 01f7bd050b9156b1ce8aba50540c7ca7bc4526f6

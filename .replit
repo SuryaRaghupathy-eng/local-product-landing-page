@@ -12,10 +12,13 @@ run = ["node", "./dist/index.cjs"]
 
 [[ports]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 localPort = 3001
 externalPort = 3001
 
 [[ports]]
+=======
+>>>>>>> 01f7bd050b9156b1ce8aba50540c7ca7bc4526f6
 =======
 >>>>>>> 01f7bd050b9156b1ce8aba50540c7ca7bc4526f6
 localPort = 5000

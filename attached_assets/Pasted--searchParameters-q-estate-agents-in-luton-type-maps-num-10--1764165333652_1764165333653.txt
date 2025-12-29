@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 01f7bd050b9156b1ce8aba50540c7ca7bc4526f6
 {
   "searchParameters": {
     "q": "estate agents in luton",
@@ -605,6 +608,7 @@
       "fid": "0x4876491818a7d801:0xe6d58daf49868f4",
       "placeId": "ChIJAdinGBhJdkgR9GiY9NpYbQ4"
     }
+<<<<<<< HEAD
 =======
 {
   "searchParameters": {
@@ -1212,5 +1216,7 @@
       "fid": "0x4876491818a7d801:0xe6d58daf49868f4",
       "placeId": "ChIJAdinGBhJdkgR9GiY9NpYbQ4"
     }
+>>>>>>> 01f7bd050b9156b1ce8aba50540c7ca7bc4526f6
+=======
 >>>>>>> 01f7bd050b9156b1ce8aba50540c7ca7bc4526f6
   ],

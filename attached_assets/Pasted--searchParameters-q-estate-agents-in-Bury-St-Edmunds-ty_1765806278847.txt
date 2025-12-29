@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 01f7bd050b9156b1ce8aba50540c7ca7bc4526f6
 {
     "searchParameters": {
         "q": "estate agents in Bury St Edmunds",
@@ -633,6 +636,7 @@
         }
     ],
     "credits": 3
+<<<<<<< HEAD
 =======
 {
     "searchParameters": {
@@ -1268,5 +1272,7 @@
         }
     ],
     "credits": 3
+>>>>>>> 01f7bd050b9156b1ce8aba50540c7ca7bc4526f6
+=======
 >>>>>>> 01f7bd050b9156b1ce8aba50540c7ca7bc4526f6
 }

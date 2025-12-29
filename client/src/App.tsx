@@ -4,7 +4,11 @@ import { QueryClientProvider } from "@tanstack/react-query";
 import { Toaster } from "@/components/ui/toaster";
 import { TooltipProvider } from "@/components/ui/tooltip";
 <<<<<<< HEAD
+<<<<<<< HEAD
 import LandingPage from "@/pages/landing-page";
+=======
+import Landing from "@/pages/landing";
+>>>>>>> 01f7bd050b9156b1ce8aba50540c7ca7bc4526f6
 =======
 import Landing from "@/pages/landing";
 >>>>>>> 01f7bd050b9156b1ce8aba50540c7ca7bc4526f6
@@ -22,8 +26,13 @@ function Router() {
   return (
     <Switch>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <Route path="/" component={LandingPage} />
       <Route path="/analyze" component={Step1Business} />
+=======
+      <Route path="/" component={Landing} />
+      <Route path="/business" component={Step1Business} />
+>>>>>>> 01f7bd050b9156b1ce8aba50540c7ca7bc4526f6
 =======
       <Route path="/" component={Landing} />
       <Route path="/business" component={Step1Business} />
